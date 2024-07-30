@@ -24,7 +24,7 @@ const HeroSubtitle = styled.p`
 
 const Hero = () => (
   <HeroContainer>
-    <HeroTitle>Desenvolvedor Java</HeroTitle>
+    <HeroTitle>Desenvolvedor FullStack Java</HeroTitle>
     <HeroSubtitle>Criando soluções robustas e escaláveis</HeroSubtitle>
   </HeroContainer>
 );

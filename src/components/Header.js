@@ -26,7 +26,7 @@ const Nav = styled.nav`
 
 const Header = () => (
   <HeaderContainer>
-    <Logo>Meu Portfólio</Logo>
+    <Logo>Ezequiel Barboza</Logo>
     <Nav>
       <a href="#about">Sobre</a>
       <a href="#projects">Projetos</a>
