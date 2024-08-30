@@ -5,6 +5,7 @@ import lightTheme from './styles/lightTheme';
 import darkTheme from './styles/darkTheme';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import ExperienceWithJava from './components/ExperienceWithJava';
 import About from './components/About';
 import Projects from './components/Projects';
 import Experience from './components/Experience';
